@@ -1,0 +1,96 @@
+body{
+    background-color: black;
+    margin-top: 50px;
+}
+
+.container{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    background-color: white;
+}
+
+.lightgray1{
+    background-color: lightgray;
+    width: 600px;
+    height: 100px;
+}
+
+.brown1{
+    background-color: rgb(163, 137, 107);
+    width: 600px;
+    height: 100px;
+    position:relative;
+}
+
+.black1{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position:relative;
+}
+
+.brown2{
+    background-color: rgb(163, 137, 107);
+    width: 200px;
+    height: 100px;
+    position:relative;
+    float: right;
+    margin-top: -100px;
+    margin-right: 200px;
+}
+
+.brown3{
+    background-color: rgb(163, 137, 107);
+    width: 600px;
+    height: 300px;
+    position:relative;
+}
+
+.black2{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position:relative;
+    float:right;
+    margin-top: -100px;
+    z-index: 100;
+}
+
+.lightgray2{
+    background-color: lightgray;
+    width: 100px;
+    height: 200px;
+    float:right;
+    position:relative;
+    margin-top: -200px;
+}
+
+.lightgray3{
+    background-color: lightgray;
+    width: 100px;
+    height: 200px;
+    float:left;
+    position:relative;
+    margin-top: -200px;
+}
+
+.pink1{
+    background-color: pink;
+    width: 200px;
+    height: 100px;
+    float:left;
+    position:relative;
+    margin-top: -200px;
+    margin-left: 200px;
+}
+
+.pink2{
+    background-color: rgb(192, 137, 155);
+    width: 200px;
+    height: 100px;
+    float:left;
+    position:relative;
+    margin-top: -100px;
+    margin-left: 200px;
+}
